@@ -15,5 +15,6 @@ public class dodatkoweZad3 {
             return number3;
         }
         return number4;
+
     }
 }
